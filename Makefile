@@ -34,6 +34,10 @@ DATA		:=	data
 INCLUDES	:=	include
 #ROMFS		:=	romfs
 
+APP_TITLE	:=	StuPID Slow HAX
+APP_AUTHOR	:=	Toiry921
+APP_DESCRIPTION	:= Why do you like pain?
+
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
