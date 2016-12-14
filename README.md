@@ -28,6 +28,10 @@ Q: What use is this to me
 
 A: ¯\_(ツ)_/¯
 
+Q: Will you be updating this?
+
+A: Nope, I personally won't be working on this but feel free to make a Pull Request to fix my work 
+
 # Credits
 Steveice10 - Memchunkhax2 Implementation (what I based my shit on)
 
