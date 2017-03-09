@@ -26,7 +26,7 @@ A: Not sure, you might just like the pain of waiting and not being able to use a
 
 Q: What use is this to me
 
-A: ¯\_(ツ)_/¯
+A: ¯\\\_(ツ)_/¯
 
 Q: Will you be updating this?
 
